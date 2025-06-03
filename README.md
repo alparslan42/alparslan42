@@ -15,22 +15,26 @@
 ## 🛠️ Tech Stack
 
 ### Game Development
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### Frontend Development
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
@@ -56,11 +60,13 @@
 
 ## 💼 Experience
 
-**Software Architect** @ Mavidev Software and Consulting Co. *(2021 - Present)*
+**Software Architect** @ Mavidev Software and Consulting Co. _(2021 - Present)_
+
 - Leading development of enterprise web applications using Vue.js and Java
 - Designing scalable software architectures
 
-**Intern** @ TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü *(2021)*
+**Intern** @ TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü _(2021)_
+
 - Developed a 3D application using Unity that displays the real-time orbital positions of specific satellites around Earth
 
 ## 🎯 Current Focus
@@ -74,14 +80,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alparslan-keskin-85a844189/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alparslan_keskin_42@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alparslan42&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⭐️ From [alparslan42](https://github.com/alparslan42)</i>
-</div>
