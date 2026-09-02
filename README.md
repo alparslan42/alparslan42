@@ -57,7 +57,7 @@
 
 ## 📫 Let's Connect
 
-[![Personal Web Site](assets/website-badge.svg)](https://alparslankeskin.com)
+[![Personal Web Site](https://img.shields.io/badge/Personal%20Web%20Site-5980A6?style=for-the-badge)](https://alparslankeskin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alparslan-keskin-85a844189/)
 
 ---
