@@ -35,7 +35,7 @@
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge)
+![Microsoft SQL Server](assets/mssql-badge.svg)
 
 ## 💼 Experience
 
